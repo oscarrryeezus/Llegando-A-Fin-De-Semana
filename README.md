@@ -232,8 +232,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👨‍💻 Autor
 
-**Oscar Leyva**
-- GitHub: [@0scar](https://github.com/0scar)
+**Oscar Daniel Morales Navarro**
+- GitHub: [@0scar](https://github.com/oscarrryeezus)
 
 ## 🙏 Agradecimientos
 
