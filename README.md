@@ -1,10 +1,11 @@
-# 🐕 DAWG - 2D Action Game
+# LLEGANDO A FIN DE MES - 2D Action Game
 
 <div align="center">
 
-![Unity Version](https://img.shields.io/badge/Unity-2021.3.45f1-black?style=for-the-badge&logo=unity)
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Aspectos legales](https://drive.google.com/file/d/17o8XVLbZNXnncSWzl0LELnSwp8Iiu27y/view?usp=sharing)
+![Juego WEB GL](https://oscarponchallantas.itch.io/llegando-a-fin-mes)
+![Juego Desktop](https://drive.google.com/drive/folders/1hJxK0ryRP_CCewcgC8ahMA0Ckhe-kp5K?usp=sharing)
+
 
 **Un intenso juego de acción 2D top-down con combate contra enemigos y jefes épicos**
 
